@@ -49,7 +49,7 @@ Next, open GitBash (terminal for MacOS), change your directory to the davidlp94/
 
 ## Baseline Performance
 (Please refer to Jupyter Notebook for full source-code)
-## SVC Model Comparison
+## SVC Model vs. Linear Regression Comparison
 
 Note: Rolling windows can be adjusted to your liking in cell-block #4.
 Note: Training Dataset period can be adjusted in cell block #12.
