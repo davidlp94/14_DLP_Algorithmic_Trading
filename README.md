@@ -2,6 +2,8 @@
 ## Introduction
 An application designed to combine machine learning and Python language to create an algorithmic trading bot using an SVC classifier and Linear Regression Model (Supervised Learning) for comparison.
 
+Live application link: https://github.com/davidlp94/14_DLP_Algorithmic_Trading/blob/main/machine_learning_trading_bot.ipynb
+
 ---
 
 ## Technologies
